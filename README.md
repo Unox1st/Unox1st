@@ -27,9 +27,9 @@ I enjoy building things on the web, learning how the internet works behind the s
 ## 📬 Get in Touch
 
 - 🐙 GitHub: [unox1st](https://github.com/unox1st)
-- 📸 Instagram: *(add your username here)*
-- ✉️ Email: *(add your email here)*
-- 💬 Discord: *(add your Discord tag here)*
+- 📸 Instagram: *(unox1st)*
+- ✉️ Email: *(sivasakjaiinsom@gmail.com)*
+- 💬 Discord: *(Nicoenit)*
 
 ---
 
